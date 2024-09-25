@@ -39,6 +39,7 @@ public class CustomerDeDupeStatusActivity extends AbstractOmniProcess { //User h
 
 	public String getCurrentDate() {
 		System.out.println("Pragyanand");
+		System.out.println("Test");
 		return currentDate;
 	}
 
